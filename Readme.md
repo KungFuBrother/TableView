@@ -1,4 +1,4 @@
-## 表格控件
+## 表格控件[[https://github.com/KungFuBrother/TableView](https://github.com/KungFuBrother/TableView)]
 ### 使用场景
 > 用于展示简单的统计数据
 
@@ -29,7 +29,7 @@ headerTextSize|表头文字大小|10dp
 rowHeight|单元格高度|36dp
 textColor|表格内容文字颜色|#999999
 textSize|表格内容文字大小|10dp
-unitColumnWidth|单元格宽度|0dp|为0时会自动根据列数得分屏幕宽度
+unitColumnWidth|单元格宽度|0dp|为0时会自动根据列数等分屏幕宽度
 
 ### 使用方法
     tableView.clearTableContents()
