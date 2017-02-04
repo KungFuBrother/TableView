@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <com.smartown.tableview.library.TableView
+        android:id="@+id/table"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="8dp"
+        app:dividerColor="#e1e1e1"
+        app:dividerWidth="1px"
+        app:headerColor="#00ffffff"
+        app:headerTextColor="#111111"
+        app:headerTextSize="10dp"
+        app:rowHeight="36dp"
+        app:textColor="#999999"
+        app:textSize="10dp"
+        app:unitColumnWidth="0dp" />
+
+</RelativeLayout>
