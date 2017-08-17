@@ -1,6 +1,3 @@
-### GitHub地址（提供demo及library源码）
-> [https://github.com/smartown/TableView](https://github.com/smartown/TableView)
-
 ### 使用场景
 > 用于展示简单的统计数据
 
