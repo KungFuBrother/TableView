@@ -293,7 +293,8 @@ public class TableView extends View {
      */
     public void refreshTable() {
         initTableSize();
-        invalidate();
+        requestLayout();
+//         invalidate();
     }
 
 }
